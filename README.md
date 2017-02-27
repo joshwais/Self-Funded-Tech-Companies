@@ -41,8 +41,10 @@ Since examples can be hard to come by, this list is an attempt to aggregate as m
 - [SurveyMonkey](https://www.surveymonkey.com/)
 - [Tablet Hotels](https://www.tablethotels.com/)
 - [TechSmith](https://www.techsmith.com/)
+- [Teepublic](https://www.teepublic.com/)
 - [The Wirecutter](thewirecutter.com/)
 - [Tuft and Needle](https://www.tuftandneedle.com/)
+- [Uncommon Goods](www.uncommongoods.com/)
 - [WooThemes](https://woocommerce.com/)
 - [Zen Recruiter](www.zenrecruiter.com/)
 

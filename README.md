@@ -45,7 +45,10 @@ Since examples can be hard to come by, this list is an attempt to aggregate as m
 - [The Wirecutter](https://thewirecutter.com/)
 - [Tuft and Needle](https://www.tuftandneedle.com/)
 - [Uncommon Goods](https://www.uncommongoods.com/)
+- [Valve](http://www.valvesoftware.com/)
 - [WooThemes](https://woocommerce.com/)
 - [Zen Recruiter](https://www.zenrecruiter.com/)
+
+Note: some have gone on to raise late-stage external financing.
 
 Thanks to [37signals](http://37signals.com/bootstrapped) and [Indie.vc](http://www.indie.vc/faq) for their lists, which served as sources.

@@ -17,7 +17,6 @@ Since examples can be hard to come by, this list is an attempt to aggregate as m
 - [Campaign Monitor](https://www.campaignmonitor.com/)
 - [Dell Computers](https://www.dell.com/)
 - [Envato](https://envato.com/)
-- [Epic](https://www.epic.com/)
 - [ESRI](https://www.esri.com/)
 - [FlightAware](https://flightaware.com/)
 - [Fog Creek](https://www.fogcreek.com/)

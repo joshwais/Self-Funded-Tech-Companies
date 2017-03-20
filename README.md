@@ -7,7 +7,7 @@ But, there is another way. It IS possible to start and grow a tech-driven compan
 Since examples can be hard to come by, this list is an attempt to aggregate as many as possible in order to be instructive and inspirational for others looking to start a company like these.
 
 - [Adafruit](https://www.adafruit.com/)
-- [AnswerLab](https://www.answerlab.com/)
+- [AnswerLab](http://www.answerlab.com/)
 - [Atlassian](https://www.atlassian.com/)
 - [Backcountry](https://www.backcountry.com/)
 - [Basecamp](https://basecamp.com/)
